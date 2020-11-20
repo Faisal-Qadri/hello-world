@@ -1,2 +1,2 @@
 # hello-world
-this is for my training
+this is the second day training
